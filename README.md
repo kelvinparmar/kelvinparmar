@@ -26,3 +26,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kelvinparmar12?t=Lxj2GkWCNMHifolggIuZ_g&s=08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parmar-kelvin-549b50201/)
 
+![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvinparmar&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinparmar&layout=Demo)](https://github.com/kelvinparmar/github-readme-stats)
+
