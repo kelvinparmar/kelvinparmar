@@ -29,4 +29,3 @@
 ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=kelvinparmar&theme=tokyonight&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinparmar&layout=Demo)](https://github.com/kelvinparmar/github-readme-stats)
-
