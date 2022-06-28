@@ -5,7 +5,7 @@
 
 - 👀 I am Kelvin Parmar
 - 💻 I am a Front-end Developer and a content writer on Twitter
-- 🤔 I’m looking for an opportunity to working as a Front-end Developer
+- 🤔 I’m looking for an opportunity to working as a Front-end Developer and open source enthusiastic 
 - 🚩 Currently I am Intern at Rk Websoft Technologies as a Front-end Developer
 - 🎓 I will graduate in 2023 from Birla Vishvakarma Mahavidhyalaya 
 - 😄 Pronouns: He/Him
