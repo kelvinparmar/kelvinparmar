@@ -23,6 +23,8 @@ Web Developer | Enthusiastic About DevOps
 src="https://img.shields.io/twitter/follow/Kelvinparmar12?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a><a href="https://www.github.com/kelvinparmar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kelvinparmar?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvinparmar.kelvinparmar)
 
 ## Skills
 
