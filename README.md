@@ -13,7 +13,7 @@ Web Developer | Enthusiastic About DevOps
 * ⚡ Fun fact: I am a Fitness Enthusiast
 
 * 🌍  I'm based in RAJKOT,GUJRAT,INDIA
-* 🖥️  See my portfolio at [My Portfolio](http://https://mxll1.csb.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://mxll1.csb.app/)
 * ✉️  You can contact me at [pkelvin123456789@gmail.com](mailto:pkelvin123456789@gmail.com)
 * 🧠  I'm learning REACT
 * 🤝  I'm open to collaborating on Web Development and Open Source
