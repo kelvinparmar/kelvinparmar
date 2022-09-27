@@ -38,6 +38,10 @@ Web Developer | Enthusiastic About DevOps
 
 ## Badges
 
+[![@kelvinparmar's Holopin board](https://holopin.io/api/user/board?user=kelvinparmar)](https://holopin.io/@kelvinparmar)
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kelvinparmar"><img src="https://github-readme-stats.vercel.app/api?username=kelvinparmar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kelvinparmar's GitHub stats" /></a>
