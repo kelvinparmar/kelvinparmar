@@ -38,7 +38,7 @@ Web Developer | Enthusiastic About DevOps
 
 ## Badges
 
-[![@kelvinparmar's Holopin board](https://holopin.io/api/user/board?user=kelvinparmar)](https://holopin.io/@kelvinparmar)
+[![@kelvinparmar's Holopin board](https://holopin.me/kelvinparmar)](https://holopin.io/@kelvinparmar)
 
 
 
