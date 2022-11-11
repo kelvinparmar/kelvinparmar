@@ -1,20 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kelvin Parmar
 =====================================================================================================================================
 
-Web Developer | Enthusiastic About DevOps
+Currently Learning DevOps
 -----------------------------------------
 
 * 👀 I am Kelvin Parmar 
-* 💻 I am content writer on Twitter 
-* 🤔 I’m looking for an opportunity to working as a DevOps role
+* 💻 I am a Front-end Developer and a content writer on Twitter 
+* 🤔 I’m looking for an opportunity to working as a Front-end Developer and open source enthusiastic 
 * 🎓 I will graduate in 2023 from Birla Vishvakarma Mahavidhyalaya 
 * 😄 Pronouns: He/Him 
-* 😉 Interest: Listening songs, Excerise 
+* 😉 Interest: Listening songs, Excerise, Watching movies 
 * ⚡ Fun fact: I am a Fitness Enthusiast
 
 * 🌍  I'm based in RAJKOT,GUJRAT,INDIA
 * ✉️  You can contact me at [pkelvin123456789@gmail.com](mailto:pkelvin123456789@gmail.com)
-* 🤝  I'm open to collaborating on DevOps and Open Source
+* 🤝  I'm open to collaborating on Web Development and Open Source
 * ⚡  I'm Fitness Freak
 
 ## Skills
