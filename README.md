@@ -32,9 +32,6 @@ Currently Learning DevOps
 
 
 
-## Socials
-
-<a href="https://Kelvin191.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kelvinparmar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Kelvinparmar12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ## Badges
 
