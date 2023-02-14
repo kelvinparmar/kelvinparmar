@@ -9,7 +9,7 @@ Currently Learning DevOps
 * 🤔 I’m looking for an opportunity to working as a Front-end Developer and open source enthusiastic 
 * 🎓 I will graduate in 2023 from Birla Vishvakarma Mahavidhyalaya 
 * 😄 Pronouns: He/Him 
-* 😉 Interest: Listening songs, Excerise, Watching movies 
+* 😉 Interest: Listening songs , Excerise , Reading books of religion
 * ⚡ Fun fact: I am a Fitness Enthusiast
 
 * 🌍  I'm based in RAJKOT,GUJRAT,INDIA
