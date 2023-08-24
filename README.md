@@ -18,14 +18,10 @@ Currently Learning DevOps
 * ⚡  I'm Fitness Freak
 
 ## Skills
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,go,linux)](https://skillicons.dev)
 
-
-
+## Tools
+[![My Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,github,vscode)](https://skillicons.dev)
 
 ## Badges
 
